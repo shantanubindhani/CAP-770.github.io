@@ -9,7 +9,7 @@
 
 
 ## | Quick Links 
-#### !#! : To be updated.
+#### ``` !#! ``` : ```To be updated.```
 * ## Demo file
   * [DEMO](src/demo.cpp)
 * ## Misc
@@ -17,6 +17,8 @@
   * [generate Prime Numbers](src/generatePrimeNumbers.cpp)
   * [number Sum without array](src/numberSum_withoutarray.cpp)
   * [balanced Brackets](src/balancedBrackets.cpp)
+  * [postfix notation evaluation](src/postfixEvaluation.cpp) !#!
+  * [infix to postfix notation](src/infixToPostfix.cpp) !#!
 * ## Data Structures
   * [array Insert](src/arrayInsert.cpp)
   * [array Remove](src/arrayRemove.cpp)
